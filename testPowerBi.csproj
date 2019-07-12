@@ -9,6 +9,7 @@
     <PackageReference Include="Microsoft.Azure.KeyVault" Version="3.0.3" />
     <PackageReference Include="Microsoft.Azure.Services.AppAuthentication" Version="1.2.0" />
     <PackageReference Include="Microsoft.PowerBI.Api" Version="2.7.0" />
+    <PackageReference Include="YamlDotNet" Version="6.1.1" />
   </ItemGroup>
 
 </Project>
